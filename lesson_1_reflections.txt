@@ -1,0 +1,8 @@
+How did viewing a diff between two versions of a file helo you see the bug that was introducted?
+For diff i can see not whole content of both files that I try to compa
+re but only the lines that are diffrent.So I don't disperse my attenti
+on to unnecessary things.
+
+How could having easy access to the entire history of a file make you 
+a more efficient programmer int the long term?
+It's very efficient way to predict losting of some data.Also that can help me to see my progress rising during the development process.
